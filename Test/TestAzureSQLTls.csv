@@ -1,0 +1,2 @@
+﻿"ID","SUBSCRIPTIONNAME","RESOURCEGROUP","NAME","LOCATION","MINIMALTLSVERSION"
+"/subscriptions/9068a229-f092-400e-8093-87e8e7d26ae1/resourceGroups/rg-dbtest-itn-001/providers/Microsoft.Sql/servers/flazdb","Flaz-4","rg-dbtest-itn-001","flazdb","italynorth","1.0"
